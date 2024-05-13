@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\Application\Base\" />
+    <Folder Include="Interfaces\Helpers\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Attributes\" />
+    <Folder Include="Bases\" />
+    <Folder Include="Dtos\Emprestimo\" />
+    <Folder Include="Dtos\DocuSign\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Azure.Messaging.ServiceBus" Version="7.15.0" />
+    <PackageReference Include="ClosedXML" Version="0.102.0" />
+    <PackageReference Include="EPPlus" Version="6.2.7" />
+    <PackageReference Include="FastMember" Version="1.5.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
+    <PackageReference Include="Microsoft.AspNet.WebApi.Client" Version="5.2.9" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="WindowsAzure.Storage" Version="9.3.3" />
+    <PackageReference Include="RestSharp" Version="106.6.7" />
+    <PackageReference Include="Google.Apis.Docs.v1" Version="1.67.0.3193" />
+    <PackageReference Include="Google.Apis.Drive.v3" Version="1.67.0.3309" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Dtos\Emprestimo\" />
+    <None Remove="Dtos\DocuSign\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.csproj.AssemblyReference.cache
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.AssemblyInfoInputs.cache
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.AssemblyInfo.cs
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.csproj.CoreCompileInputs.cache
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\bin\Debug\net7.0\Exemplo.Application.deps.json
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\bin\Debug\net7.0\Exemplo.Application.dll
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\bin\Debug\net7.0\Exemplo.Application.pdb
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\bin\Debug\net7.0\Exemplo.Domain.dll
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\bin\Debug\net7.0\Exemplo.Domain.pdb
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.csproj.CopyComplete
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.dll
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\refint\Exemplo.Application.dll
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\Exemplo.Application.pdb
+C:\Repositorios_Pessoal\Exemplo\Application\Exemplo.Application\obj\Debug\net7.0\ref\Exemplo.Application.dll
+
+

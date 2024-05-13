@@ -1,0 +1,16 @@
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\bin\Debug\net7.0\Exemplo.DatabaseMigrate.exe
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\bin\Debug\net7.0\Exemplo.DatabaseMigrate.deps.json
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\bin\Debug\net7.0\Exemplo.DatabaseMigrate.runtimeconfig.json
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\bin\Debug\net7.0\Exemplo.DatabaseMigrate.dll
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\bin\Debug\net7.0\Exemplo.DatabaseMigrate.pdb
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\Exemplo.DatabaseMigrate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\Exemplo.DatabaseMigrate.AssemblyInfoInputs.cache
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\Exemplo.DatabaseMigrate.AssemblyInfo.cs
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\Exemplo.DatabaseMigrate.csproj.CoreCompileInputs.cache
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\Exemplo.DatabaseMigrate.dll
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\refint\Exemplo.DatabaseMigrate.dll
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\Exemplo.DatabaseMigrate.pdb
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\Exemplo.DatabaseMigrate.genruntimeconfig.cache
+C:\Repositorios_Pessoal\Exemplo\Infra\Exemplo.DatabaseMigrate\obj\Debug\net7.0\ref\Exemplo.DatabaseMigrate.dll
+
+
